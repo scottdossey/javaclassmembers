@@ -7,4 +7,4 @@ The instructor's name is Scott Dossey
 
 ## Students
 * Romeo Barrientos
-* Test student 1
+* Yuki U

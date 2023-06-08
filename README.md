@@ -17,3 +17,4 @@ The instructor's name is Scott Dossey
 * Liliana Roberts
 * Oscar Wani
 * Emmanuel Asirifi
+* Sukya Williams

@@ -16,3 +16,4 @@ The instructor's name is Scott Dossey
 * Lavette Diego
 * Liliana Roberts
 * Oscar Wani
+* Emmanuel Asirifi

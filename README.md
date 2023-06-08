@@ -15,3 +15,4 @@ The instructor's name is Scott Dossey
 * Jake Gartenstein
 * Lavette Diego
 * Liliana Roberts
+* Oscar Wani

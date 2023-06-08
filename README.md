@@ -10,3 +10,4 @@ The instructor's name is Scott Dossey
 - Varun Tummala
 - Teddy Conyers
 - Lehron Robinson
+* Jake Gartenstein

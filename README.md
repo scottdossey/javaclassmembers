@@ -11,5 +11,4 @@ The instructor's name is Scott Dossey
 - Teddy Conyers
 - Lehron Robinson
 - Mozen Songco
-
 * Jake Gartenstein

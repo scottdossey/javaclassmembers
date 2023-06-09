@@ -18,3 +18,4 @@ The instructor's name is Scott Dossey
 * Oscar Wani
 * Emmanuel Asirifi
 * Sukya Williams
+* Luis Rubalcaba

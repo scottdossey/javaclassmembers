@@ -1,4 +1,4 @@
-# Class Members
+        # Class Members
 
 ## Instructor
 
@@ -6,4 +6,19 @@ The instructor's name is Scott Dossey
 
 ## Students
 
-* Test student 1
+- Mirjana Pljevaljcic
+- Nicole Peterson
+
+* Varun Tummala
+* Teddy Conyers
+* Lehron Robinson
+* Mozen Songco
+
+- Jake Gartenstein
+- Lavette Diego
+- Liliana Roberts
+- Oscar Wani
+- Emmanuel Asirifi
+- Sukya Williams
+- Luis Rubalcaba
+- Kendall Robinson
